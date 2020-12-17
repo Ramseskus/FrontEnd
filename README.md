@@ -20,14 +20,14 @@ FrontEnd Course Assignments
 
 1: [PersonalTrainerTask2 - App](/personaltrainer2/src/App.js)
 
-2: [PersonalTrainerTask2 - Customers](/personaltrainer2/src/components/CustomerList.js)
+2: [PersonalTrainerTask2 - CustomerList](/personaltrainer2/src/components/CustomerList.js)
 
-2.1:[PersonalTrainerTask2 - Customers](/personaltrainer2/src/components/AddCustomer.js)
+2.1:[PersonalTrainerTask2 - AddCustomer](/personaltrainer2/src/components/AddCustomer.js)
 
-2.2: [PersonalTrainerTask2 - Customers](/personaltrainer2/src/components/EditCustomer.js)
+2.2: [PersonalTrainerTask2 - EditCustomers](/personaltrainer2/src/components/EditCustomer.js)
 
 3: [PersonalTrainerTask2 - Trainings](/personaltrainer2/src/components/Trainings.js)
 
-3.3: [PersonalTrainerTask2 - Trainings](/personaltrainer2/src/components/AddTraining.js)
+3.3: [PersonalTrainerTask2 - AddTraining](/personaltrainer2/src/components/AddTraining.js)
 
 4: [PersonalTrainerTask2 - Home](/personaltrainer2/src/components/Home.js)
