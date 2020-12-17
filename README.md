@@ -31,3 +31,5 @@ FrontEnd Course Assignments
   2.5: [PT2  - AddTraining](/personaltrainer2/src/components/AddTraining.js)
 
   2.6: [PT2  - Home](/personaltrainer2/src/components/Home.js)
+  
+  2.7: [PT2 -CSS](/personaltrainer2/src/App.css)
