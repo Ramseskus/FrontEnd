@@ -1,6 +1,8 @@
 # FrontEnd linkki: https://github.com/Ramseskus/FrontEnd.git
 FrontEnd Course Assignments
 
+-------CARSHOP---------
+
 [CarShop - App](/carshop/src/App.js)
 
 [CarShop - AddCar](/carshop/src/components/AddCar.js)
@@ -9,46 +11,50 @@ FrontEnd Course Assignments
   
 [CarShop - EditCar](/carshop/src/components/EditCar.js)
 
-1: [PersonalTrainer1 - App](/personaltrainer/src/App.js)
+-------PERSONAL TRAINER 1---------
 
-  1.1: [PT1 - Customers](/personaltrainer/src/components/Customers.js)
+[PersonalTrainer1 - App](/personaltrainer/src/App.js)
 
-  1.2: [PT1 - Trainings](/personaltrainer/src/components/Trainings.js)
+[PT1 - Customers](/personaltrainer/src/components/Customers.js)
 
-  1.3: [PT1 - Home](/personaltrainer/src/components/Home.js)
+[PT1 - Trainings](/personaltrainer/src/components/Trainings.js)
 
+[PT1 - Home](/personaltrainer/src/components/Home.js)
 
-2: [PersonalTrainer2 - App](/personaltrainer2/src/App.js)
+-------PERSONAL TRAINER 2---------
 
-  2.1: [PT2  - CustomerList](/personaltrainer2/src/components/CustomerList.js)
+[PersonalTrainer2 - App](/personaltrainer2/src/App.js)
 
-  2.2:[PT2 - AddCustomer](/personaltrainer2/src/components/AddCustomer.js)
+[PT2  - CustomerList](/personaltrainer2/src/components/CustomerList.js)
 
-  2.3: [PT2  - EditCustomers](/personaltrainer2/src/components/EditCustomer.js)
+[PT2 - AddCustomer](/personaltrainer2/src/components/AddCustomer.js)
 
-  2.4: [PT2  - Trainings](/personaltrainer2/src/components/Trainings.js)
+[PT2  - EditCustomers](/personaltrainer2/src/components/EditCustomer.js)
 
-  2.5: [PT2  - AddTraining](/personaltrainer2/src/components/AddTraining.js)
+[PT2  - Trainings](/personaltrainer2/src/components/Trainings.js)
 
-  2.6: [PT2  - Home](/personaltrainer2/src/components/Home.js)
+[PT2  - AddTraining](/personaltrainer2/src/components/AddTraining.js)
+
+[PT2  - Home](/personaltrainer2/src/components/Home.js)
   
-  2.7: [PT2 -CSS](/personaltrainer2/src/App.css)
+[PT2 -CSS](/personaltrainer2/src/App.css)
   
+  -------PERSONAL TRAINER 3---------
   
-  3: [PersonalTrainer3 - App](/ptfinal/src/App.js)
+[PersonalTrainer3 - App](/ptfinal/src/App.js)
 
-  3.1: [PT3  - CustomerList](/ptfinal/src/components/CustomerList.js)
+[PT3  - CustomerList](/ptfinal/src/components/CustomerList.js)
 
-  3.2:[PT3 - AddCustomer](/ptfinal/src/components/AddCustomer.js)
+[PT3 - AddCustomer](/ptfinal/src/components/AddCustomer.js)
 
-  3.3: [PT3  - EditCustomers](/ptfinal/src/components/EditCustomer.js)
+[PT3  - EditCustomers](/ptfinal/src/components/EditCustomer.js)
 
-  3.4: [PT3  - Trainings](/ptfinal/src/components/Trainings.js)
+[PT3  - Trainings](/ptfinal/src/components/Trainings.js)
 
-  3.5: [PT3  - AddTraining](/ptfinal/src/components/AddTraining.js)
+[PT3  - AddTraining](/ptfinal/src/components/AddTraining.js)
 
-  3.6: [PT3  - Home](/ptfinal/src/components/Home.js)
+[PT3  - Home](/ptfinal/src/components/Home.js)
   
-  3.7: [PT3  - Calendar](/ptfinal/src/components/BigCalendar.js)
+[PT3  - Calendar](/ptfinal/src/components/BigCalendar.js)
   
-  3.8: [PT3 -CSS](/ptfinal/src/App.css)
+[PT3 -CSS](/ptfinal/src/App.css)
