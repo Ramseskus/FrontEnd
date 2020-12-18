@@ -33,3 +33,22 @@ FrontEnd Course Assignments
   2.6: [PT2  - Home](/personaltrainer2/src/components/Home.js)
   
   2.7: [PT2 -CSS](/personaltrainer2/src/App.css)
+  
+  
+  3: [PersonalTrainer3 - App](/ptfinal/src/App.js)
+
+  3.1: [PT3  - CustomerList](/ptfinal/src/components/CustomerList.js)
+
+  3.2:[PT3 - AddCustomer](/ptfinal/src/components/AddCustomer.js)
+
+  3.3: [PT3  - EditCustomers](/ptfinal/src/components/EditCustomer.js)
+
+  3.4: [PT3  - Trainings](/ptfinal/src/components/Trainings.js)
+
+  3.5: [PT3  - AddTraining](/ptfinal/src/components/AddTraining.js)
+
+  3.6: [PT3  - Home](/ptfinal/src/components/Home.js)
+  
+  3.7: [PT3  - Calendar](/ptfinal/src/components/BigCalendar.js)
+  
+  3.8: [PT3 -CSS](/ptfinal/src/App.css)
