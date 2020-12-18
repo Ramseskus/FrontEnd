@@ -30,7 +30,7 @@ function EditCustomer(props) {
       email: props.params.data.email,
       phone: props.params.data.phone,
     });
-    console.log(props.params)
+    console.log(props.params);
     setOpen(true);
   };
 
@@ -49,8 +49,12 @@ function EditCustomer(props) {
 
   return (
     <div>
-        <Button size="medium" color="primary" onClick={handleClickOpen} startIcon={<EditIcon/>}>
-        </Button>
+      <Button
+        size="medium"
+        color="primary"
+        onClick={handleClickOpen}
+        startIcon={<EditIcon />}
+      ></Button>
       <Dialog open={open} onClose={handleClose}>
         <DialogTitle>Update Customer</DialogTitle>
         <DialogContent>
